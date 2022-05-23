@@ -1,5 +1,5 @@
 body {
-  background-color: #F4EBD0;
+  background-color: #f4ebd0;
   display: flex;
 }
 
@@ -8,7 +8,7 @@ ul {
   padding-left: 0;
 }
 #root {
-  max-width
+  max-width: 720px;
   margin: 32px auto 0 auto;
 }
 
@@ -21,19 +21,18 @@ ul {
 
 .app-div {
   display: flex;
-  border: #D6AD60 solid 2px;
+  border: #d6ad60 solid 2px;
   border-radius: 16px;
   padding: 10px;
 }
 .list-container {
   padding: 10px;
   min-width: 200px;
-  border: #D6AD60 solid 2px;
+  border: #d6ad60 solid 2px;
   border-radius: 16px;
-  background-color: #B68D405f;
+  background-color: #b68d405f;
 }
 
 .info-container {
   padding: 20px;
- ;
 }
